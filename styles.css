@@ -1,0 +1,14 @@
+#canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#canvas {
+  border: 1px solid black;
+}
+
+body {
+  background-color: #6829a6;
+}
